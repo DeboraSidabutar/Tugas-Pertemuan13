@@ -1,4 +1,10 @@
 # Mobile Automation Testing - WDIO & Appium
+Screenshot log berhasil di terminal
+<img width="1366" height="689" alt="image" src="https://github.com/user-attachments/assets/58a13ba7-1a8e-4170-9985-9e1da89888e6" />
+
+Screenshot layar di device saat aplikasi launch
+<img width="1080" height="2388" alt="launch" src="https://github.com/user-attachments/assets/d9806daa-45e1-4f99-8db4-93154f5c640e" />
+
 
 ## Deskripsi Project
 
